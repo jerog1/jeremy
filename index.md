@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>index</title>
+    <style>
 
-You can use the [editor on GitHub](https://github.com/jerog1/jeremy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+body {
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jerog1/jeremy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  font-family: 'Courier New', monospace, sans-serif;
+  font-weight: 400;
+  font-size: 14.5px;
+}
+      
+img {
+  max-width: 100%;
+  height: auto;
+}
+      
+      
+</style> </head>
+  <body>
+    <p><br>
+    </p>
+    <p><img src="file:///Users/Home-Folder/Documents/Portfolio/Blank/Portfolio%20:%20Resume/jeremynir/Images/jeremy.png"
+        alt="Jeremy image"
+        title="logo">
+      <br>
+    </p>
+    <p>hello! and welcome to my little corner of the web</p>
+    <p><img src="file:///Users/Home-Folder/Documents/Portfolio/Blank/Portfolio%20:%20Resume/jeremynir/Images/spiderweb.png"
+        alt=""></p>
+    <p>please do make yourself at home</p>
+    <p><br>
+    </p>
+    <p><img src="file:///Users/Home-Folder/Documents/Portfolio/Blank/Portfolio%20:%20Resume/jeremynir/Images/fireplace.gif"
+        alt=""></p>
+    <p><br>
+    </p>
+    <p>here is my portfolio work</p>
+    <p>&gt;<a href="file:///Users/Home-Folder/Documents/Portfolio/Blank/Portfolio%20:%20Resume/jeremynir/Pages/publications.html">publications</a></p>
+    <p>&gt;games</p>
+    <p>&gt;videos</p>
+    <p>&gt;tech</p>
+    <p>&gt;commercial</p>
+    <p>&gt;about</p>
+  </body>
+</html>
